@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939931641472",
+    "firebase_url": "https://iq-challenger-default-rtdb.firebaseio.com",
+    "project_id": "iq-challenger",
+    "storage_bucket": "iq-challenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939931641472:android:aa25381381591bb3206865",
+        "android_client_info": {
+          "package_name": "fd.firad.iqchallenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939931641472-a7e5b16o906pm3lv6iqgq6dpdgj3r0gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGm1mG60WjKX4a2mqW__phm0Ts6masGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939931641472-a7e5b16o906pm3lv6iqgq6dpdgj3r0gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
