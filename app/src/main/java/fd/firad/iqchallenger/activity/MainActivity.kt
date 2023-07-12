@@ -17,9 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        viewModel.getQuiz()
-
-        viewModel.data.observe(this) { result ->
+        viewModel.getQuiz().observe(this) { result ->
             when (result) {
                 is Result.Success -> {
 
@@ -38,6 +36,7 @@ class MainActivity : AppCompatActivity() {
                         .show()
                 }
             }
+
         }
     }
 }
